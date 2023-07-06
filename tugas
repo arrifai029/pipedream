@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel</title>
+
+    <style>
+        .section1 {
+        width: 1000px;
+        display: flex;
+        margin-top: 80px;
+        }
+        .section1 .title1 {
+        font-family: "Plus Jakarta Sans";
+        font-style: normal;
+        font-weight: 800;
+        font-size: 76px;
+        line-height: 89px;
+        letter-spacing: -0.04em;
+        color: #181e4b;
+        font-family: Monospace;
+        /* display: flex; */
+        }
+        .section1 .title2 {
+        color: #4475f2;
+        }
+        .body {
+        display: flex;
+        justify-content: center;
+        background: #ffffff;
+        }
+        .main_image {
+        width: 493px;
+        height: 493px;
+        }
+    </style>
+
+</head>
+<body class="body">
+    <div class="section1">
+        <div class="title1">
+            Liburan & Nikmati
+            <div class="title2">Tempat Baru</div>
+            diIndonesia
+        </div>
+        <img class="main_image" src="main image.png">
+        </div>
+    </div>
+</body>
+</html>
